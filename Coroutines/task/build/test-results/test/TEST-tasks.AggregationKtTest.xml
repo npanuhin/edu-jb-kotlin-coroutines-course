@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="tasks.AggregationKtTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-05-18T01:21:57" hostname="LAPTOP-PANUHIN" time="0.036">
+  <properties/>
+  <testcase name="testAggregation" classname="tasks.AggregationKtTest" time="0.036"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
